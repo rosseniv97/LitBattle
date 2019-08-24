@@ -1,0 +1,16 @@
+{
+  "name": "litbattleserver_js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.5.4",
+    "package.json": "^2.0.1"
+  }
+}
